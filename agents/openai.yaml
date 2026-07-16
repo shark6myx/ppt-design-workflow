@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT Design Workflow"
+  short_description: "覆盖大纲、三版视觉预览与高保真可编辑PPTX的完整流程"
+  default_prompt: "Use $ppt-design-workflow to turn my source material into an approved outline, three visual directions, and an editable PPTX."
